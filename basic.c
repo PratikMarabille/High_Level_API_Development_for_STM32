@@ -1,7 +1,7 @@
 /*
  *********************************************************
  *  	Created on: AUG 6, 2024							 *
- *      Author:  CHANNAVEERAGOUDA MALI PATIL			 *
+ *      Author:  Pratik Rajendraa Marabille			     *
  *      COLLEGE: R.V COLLEGE OF ENGINEERING				 *
  *      BRANCH:  ELECTRONICS AND COMMUNICATION			 *
  *      SEM:	 VI										 *
